@@ -1,29 +1,13 @@
-# 🥳 Mensagem de Parabéns
+# 🦴 Treino de Sintaxe
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+O objetivo desta atividade é praticar conceitos básicos do Python. Fiz alguns exercícios para fixar uma revisão que fiz de variáveis, loops e condicionais.😊
 
 ---
 
 ## 🚀 Descrição
 
-### 📌 O que esse projeto faz?
+### 📌 O que tem nesses códigos?
 
-> Este script repete uma mensagem estabelecida por uma variável por um número de vezes também pré-estabelecido. No meu caso, eu desenvolvi esse código para repetir uma mensagem de "Feliz aniversário" 100 vezes.
-
+> No código "Syntax.py", eu fiz alguns comentários dos pontos mais importantes da minha revisão, anotando só o que eu revi de mais interessante e curioso.
+> Já no código "EstruturasBase.py" eu fiz 3 exercícios para a fixação das bases estudadas. O código conta com os enunciados e minhas respostas.
 ---
-
-## 🧰 Tecnologias e Ferramentas
-
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
-- Bibliotecas utilizadas:
-  - `time`
-
----
-
-## 🛠️ Como Executar
-
-### 📦 Pré-requisitos:
-
-- Python 3.x Instalado no PC
-- Extensões VSCode : Python, Python Debugger
