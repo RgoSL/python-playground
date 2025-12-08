@@ -13,10 +13,10 @@ Script simples para validar uma senha baseada em um arquivo externo.
 - 🔑 [VerifiSenha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
 <br>
 
-  ### 🧮 Calculadora Python
-Uma calculadora com um front-end e uma lógica de funcionamento totalmente baseados em Python.
-- 🧮 [OperMath](https://github.com/RgoSL/PythonAtivs/tree/OperMath) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
-> 👷🏻 Está em desenvolvimento!
+  ### 🦴 Treino de Sintaxe
+Anotações e códigos da minha recapitulação das bases da linguagem Python.
+- 🦴 [Syntax](https://github.com/RgoSL/python-playground/tree/syntax) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+> 
 <br> 
 
   ### ✅ WhatsApp Autônomo  
