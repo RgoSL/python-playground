@@ -6,6 +6,8 @@ CONCEITOS CHAVE :
 - O Compilador Interpreta o Tipo da Variável Sozinho 
 - O Python Tem Uma Lógica de Precedência Durante a Compilação (Parênteses, Aritméticos, Comparadores, Operadores Lógicos)
 - Existe um Tipo de Operador Pouco Explorado em Cursos, o Operador de Atribuição Composto (+=, -=, *=, /=, %=)
+- Existem Múltiplas Estruturas de Dados, Todas Fazem a Mesma Coisa, Mas Cada Uma Com Sua Especificidade
+- Existem Métodos Específicos Para Cada Estrutura Para Que Seja Possível a Manipulação de Seus Dados
 
 """
 
@@ -23,3 +25,10 @@ print(Conta) # Resultado Deve Ser 25
 X = 5 # Variável Int
 X %= 2 # Variável Sofre a Aplicação do Módulo(%)
 print(X) # X Passa a Valer 1, Porque o Resto da Divisão de 5/2 é 1
+
+
+# Uso de Estruturas de Dados ->
+
+# Listas : Mutáveis e Ordenadas, Podem Receber Dados de Tipos Diferentes
+TopFrutas = ["Banana", "Morango", "Maçã"]
+
