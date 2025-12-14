@@ -23,8 +23,8 @@ The goal of this activity is to practice specific Python language concepts throu
 
 ### 📦 Prerequisites:
 
-- Python 3.x Instalado no PC
-- Extensões VSCode : Python, Python Debugger
+- Python 3.x installed on the PC
+- VSCode extensions: Python, Python Debugger
 
 ````bash
 pip install customtkinter
