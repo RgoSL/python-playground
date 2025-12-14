@@ -1,14 +1,14 @@
-# 🦴 Treino de Sintaxe 
-O objetivo desta atividade é praticar conceitos básicos do Python. Fiz alguns exercícios para fixar uma revisão que fiz de variáveis, loops e condicionais.😊 
+# 🦴 Syntax Practice
+The goal of this activity is to practice basic Python concepts. I did some exercises to reinforce a review I did on variables, loops, and conditionals. 😊
 
 ---
 
-### 📌 O que tem nesses códigos?
+### 📌 What's in these codes?
 
-> No código "Syntax.py", eu fiz alguns comentários dos pontos mais importantes da minha revisão, anotando só o que eu revi de mais interessante e curioso.
+> In the "Syntax.py" code, I made some comments on the most important points of my review, noting only what I found most interesting and curious.
 
-> No código "BasicConcepts.py" eu fiz 3 exercícios para a fixação das bases estudadas. O código conta com os enunciados e minhas respostas.
+> In the "BasicConcepts.py" code, I created 3 exercises to reinforce the basic concepts studied. The code includes the problem statements and my answers.
   
-> Já no código "DataStructure.py" eu fiz 3 exercícios para a fixação do conceito de Estrutura de Dados. O código conta com os enunciados e minhas respostas. 
+> In the "DataStructure.py" code, I've already included 3 exercises to reinforce the concept of Data Structures. The code contains the problem statements and my answers.
 
 ---
