@@ -1,29 +1,27 @@
-# 🥳 Mensagem de Parabéns
+# 🥳 Congratulations Message
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
-
----
-
-## 🚀 Descrição
-
-### 📌 O que esse projeto faz?
-
-> Este script repete uma mensagem estabelecida por uma variável por um número de vezes também pré-estabelecido. No meu caso, eu desenvolvi esse código para repetir uma mensagem de "Feliz aniversário" 100 vezes.
+The goal of this activity is to practice specific Python language concepts through a small project or functional script. The aim is to combine learning with creativity and fun 😄.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+### 📌 What does this project do?
 
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
-- Bibliotecas utilizadas:
+> This script repeats a message set by a variable a pre-set number of times. In my case, I developed this code to repeat the message "Happy Birthday" 100 times.
+
+---
+
+## 🧰 Technologies and Tools
+
+- Language: **Python 3.x**
+- Editor: **VSCode**
+- Libraries used:
   - `time`
 
 ---
 
-## 🛠️ Como Executar
+## 🛠️ How to Run
 
-### 📦 Pré-requisitos:
+### 📦 Prerequisites:
 
-- Python 3.x Instalado no PC
-- Extensões VSCode : Python, Python Debugger
+- Python 3.x installed on your PC
+- VSCode extensions: Python, Python Debugger
