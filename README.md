@@ -1,57 +1,53 @@
-#  <img src="https://skillicons.dev/icons?i=python" align="center" /> PythonAtivs – Explorando Python com Projetos Divertidos 
+#  <img src="https://skillicons.dev/icons?i=python" align="center" /> Python Playground – Exploring Python Through Fun Projects 
 
-- 🎯 Repositório criado para armazenar minhas atividades e pequenos projetos em Python, feitos enquanto estudo e pratico a linguagem.  
-- 🧭 Cada atividade está organizada em uma branch diferente, facilitando a navegação e a consulta separada de cada código.
+- 🎯 Repository created to store my Python activities and small projects, developed while studying and practicing the language.  
+- 🧭 Each activity is organized in a separate branch, making navigation and individual code exploration easier.
 
-Vão desde scripts simples até automações criativas — tudo feito com foco em aprendizado e diversão! 😄
+Projects range from simple scripts to creative automations, all built with a strong focus on learning and having fun! 😄
 
-<!-- SESSÃO DO ÍNDICE DE BRANCHS ⬇️ -->
-## 📇 Sumário :
+<!-- BRANCH INDEX SECTION ⬇️ -->
+## 📇 Summary :
 
-### 🔑 Verificação de Senha  
-Script simples para validar uma senha baseada em um arquivo externo.
-- 🔑 [VerifiSenha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### 🔑 Password Verification  
+Simple script to validate a password based on an external file.
+- 🔑 [VerifiSenha](https://github.com/RgoSL/PythonAtivs/tree/VerifiSenha)
 <br>
 
-  ### 🦴 Treino de Sintaxe
-Anotações e códigos da minha recapitulação das bases da linguagem Python.
-- 🦴 [Syntax](https://github.com/RgoSL/python-playground/tree/syntax) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
-> 
-<br> 
-
-  ### ✅ WhatsApp Autônomo  
-Automação usando `pyautogui` para enviar mensagens via WhatsApp Desktop App - um teste divertido de automação em Python.
-- ✅ [AutoZap](https://github.com/RgoSL/PythonAtivs/tree/AutoZap) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### 🦴 Syntax Training  
+Notes and code created during my review of Python language fundamentals.
+- 🦴 [Syntax](https://github.com/RgoSL/python-playground/tree/syntax)
 <br>
 
-  ### 🤩 Interface Gráfica em Python
-Exemplos de propriedades da biblioteca `customtkinter` - exemplos visuais da biblioteca. 
-- 🤩 [PythonGui](https://github.com/RgoSL/PythonAtivs/tree/PythonGui) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### ✅ Autonomous WhatsApp  
+Automation using `pyautogui` to send messages via the WhatsApp Desktop App — a fun Python automation experiment.
+- ✅ [AutoZap](https://github.com/RgoSL/PythonAtivs/tree/AutoZap)
 <br>
 
-  ### 🥳 Código de Parabéns!
-Um código que pode ser útil para quem quiser mandar uma mensagem muitas vezes 😅
-- 🥳 [CodeNiver](https://github.com/RgoSL/PythonAtivs/tree/CodeNiver) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### 🤩 Python Graphical Interface  
+Visual examples exploring features of the `customtkinter` library.
+- 🤩 [PythonGui](https://github.com/RgoSL/PythonAtivs/tree/PythonGui)
 <br>
 
- ### 😹 Meme CustomTkinter
-Um script que eu fiz para testar se o `customtkinter` suportava vídeos.
-- 😹 [MP4CustomTk](https://github.com/RgoSL/PythonAtivs/tree/MP4CustomTk) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### 🥳 Birthday Code!
+A script that can be useful if you want to send the same message many times 😅
+- 🥳 [CodeNiver](https://github.com/RgoSL/PythonAtivs/tree/CodeNiver)
 <br>
 
- ### 🧪 Otimização de Código
-Usando o `threads`, é possível deixar códigos mais otimizados/rápidos 🧠.
-- 🧪 [CodeOtimista](https://github.com/RgoSL/PythonAtivs/tree/CodeOtimista) <!-- ⬅️ LINK PARA AS RESPECTIVAS BRANCHS -->
+### 😹 CustomTkinter Meme
+A script created to test whether `customtkinter` supports video playback.
+- 😹 [MP4CustomTk](https://github.com/RgoSL/PythonAtivs/tree/MP4CustomTk)
 <br>
 
-<!-- SESSÃO DE REFERÊNCIAS ⬇️ -->
+### 🧪 Code Optimization
+Using threads to make code more optimized and faster 🧠.
+- 🧪 [CodeOtimista](https://github.com/RgoSL/PythonAtivs/tree/CodeOtimista)
+<br>
+
+<!-- REFERENCES SECTION ⬇️ -->
 ---
 
-### 📚 Recursos Úteis
+### 📚 Useful Resources
 
-- 📘 [Documentação Oficial do Python (PT-BR)](https://docs.python.org/pt-br/3/)  
-- 🧾 [Python Cheatsheet — Cola rápida com tudo que importa](https://www.pythoncheatsheet.org/)  
-- 🎓 [W3Schools — Tutorial interativo de Python](https://www.w3schools.com/python/)
-
-
-
+- 📘 [Official Python Documentation](https://docs.python.org/3/)  
+- 🧾 [Python Cheatsheet — quick reference for what matters](https://www.pythoncheatsheet.org/)  
+- 🎓 [W3Schools — Interactive Python Tutorial](https://www.w3schools.com/python/)
