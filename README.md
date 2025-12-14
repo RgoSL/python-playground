@@ -1,22 +1,21 @@
-# 🧪 CodeOtimista
-O objetivo dessa branch é armazenar um teste de como otimizar funções de um código utilizando controle de processos, vulgo threads 🧠.
+# 🧪 Optimistic Code
+The goal of this branch is to store a test of how to optimize code functions using process control, aka threads 🧠.
 
 ---
 
-## 🚀 Descrição
+### 📌 What does this project do?
 
-### 📌 O que esse projeto faz?
+> There are two scripts, the "Test" is intended to be more straightforward and less optimized for some computers. While the "TestThreads" applies process control to this same code in order to optimize how it executes its mission.
 
-> Há dois scripts, o "Teste" tem a intenção de ser mais direto e menos otimizado para alguns computadores. Enquanto o "TesteThreads", aplica controle de processos neste mesmo código afim de otimizar a forma como ele executa sua missão.
-> Em suma, aplique Threads para deixar as coisas mais rápidas 🏍️.
+> In short, apply Threads to make things faster 🏍️.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
-- Bibliotecas utilizadas:
+- Language: **Python 3.x**
+- Editor: **VSCode**
+- Libraries used:
   - `threading`
   - `customtkinter`
   - `tkinter`
@@ -24,11 +23,11 @@ O objetivo dessa branch é armazenar um teste de como otimizar funções de um c
 
 ---
 
-## 🛠️ Como Executar
+## 🛠️ How to Run
 
-### 📦 Pré-requisitos:
-- Python 3.x Instalado no PC
-- Instalar o Customtkinter (as demais já vem por padrão com o python)
+### 📦 Prerequisites:
+- Python 3.x installed on your PC
+- Install Customtkinter (the others come with Python by default)
 
 ````bash
 pip install customtkinter
