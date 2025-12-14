@@ -1,33 +1,30 @@
 # 🤩 PythonGUI
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+The goal of this activity is to practice specific Python language concepts through a small project or functional script. The aim is to combine learning with creativity and fun 😄.
 
 ---
 
-## 🚀 Descrição
+### 📌 What does this project do?
 
-### 📌 O que esse projeto faz?
-
-> Esta branch é uma coletânea de elementos/componentes de interface gráfica em Python. Desenvolvi todos eles utilizando a biblioteca `CustomTKinter`. Uso esta branch como uma revisão rápida e autoral dos conceitos da biblioteca.
+> This branch is a collection of graphical user interface elements/components in Python. I developed them all using the `CustomTKinter` library. I use this branch as a quick and original review of the library's concepts.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
-- Bibliotecas utilizadas:
+- Language: **Python 3.x**
+- Editor: **VSCode**
+- Libraries used:
   - `customtkinter`
 
 ---
 
-## 🛠️ Como Executar
+## 🛠️  How to Run
 
-### 📦 Pré-requisitos:
+### 📦 Prerequisites:
 
 - Python 3.x Instalado no PC
 - Extensões VSCode : Python, Python Debugger
-
 
 ````bash
 pip install customtkinter
