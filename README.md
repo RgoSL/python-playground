@@ -1,32 +1,30 @@
 # ✅ AutoZap
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+The goal of this activity is to practice specific Python programming concepts through a small project or functional script. The aim is to combine learning with creativity and fun 😄.
 
 ---
 
-## 🚀 Descrição
+### 📌 What does this project do?
 
-### 📌 O que esse projeto faz?
-
-> Este script automatiza o envio de mensagens via WhatsApp Web/Desktop utilizando a biblioteca `pyautogui`, por meio de um arquivo de texto, ele repassa mensagens para um contato em uma coordenada especifica. Foi minha introdução à automação com Python.
+> This script automates sending messages via WhatsApp Web/Desktop using the `pyautogui` library. It forwards messages from a text file to a contact at a specific coordinate. This was my introduction to automation with Python.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
-- Bibliotecas utilizadas:
+- Language: **Python 3.x**
+- Editor: **VSCode**
+- Libraries used:
   - `pyautogui`
   - `time`
 
 ---
 
-## 🛠️ Como Executar
+## 🛠️ How to Run
 
-### 📦 Pré-requisitos:
+### 📦 Prerequisites:
 
-- Python 3.x Instalado no PC
+- Python 3.x Installed on PC
 
 ````bash
 pip install pyautogui
