@@ -1,27 +1,25 @@
-# 🔑 Verificador de Senha
+# 🔑 Password Verification
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
-
----
-
-## 🚀 Descrição
-
-### 📌 O que esse projeto faz?
-
-> Por meio de um arquivo .txt externo, o script desta branch válida uma condição, simulando se o usuário seria ou não aprovado.
+The goal of this activity is to practice specific Python language concepts through a small project or functional script. The aim is to combine learning with creativity and fun 😄.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+### 📌 What does this project do?
 
-- Linguagem: **Python 3.x**
-- Editor: **VSCode** 
+> Using an external .txt file, the script in this branch validates a condition, simulating whether or not the user would be approved.
 
 ---
 
-## 🛠️ Como Executar
+## 🧰 Technologies and Tools
 
-### 📦 Pré-requisitos:
+- Language: **Python 3.x**
+- Editor: **VSCode**
+
+---
+
+## 🛠️ How to Run
+
+### 📦 Prerequisites:
 
 - Python 3.x Instalado no PC
 - Extensões VSCode : Python, Python Debugger
