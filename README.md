@@ -1,42 +1,40 @@
 # 😹 Meme CustomTkinter
 
-O objetivo desta atividade é praticar conceitos específicos da linguagem Python através de um pequeno projeto ou script funcional. A proposta é unir aprendizado com criatividade e diversão 😄.
+The goal of this activity is to practice specific Python language concepts through a small project or functional script. The aim is to combine learning with creativity and fun 😄.
 
 ---
 
-## 🚀 Descrição
+### 📌 What does this project do?
 
-### 📌 O que esse projeto faz?
-
-> Utilizando algumas bibliotecas do Python, eu exibi um vídeo, de um meme que se popularizou por conta do Mundial de Clubes Fifa, com um script Python.
+> Using some Python libraries, I displayed a video of a meme that became popular because of the FIFA Club World Cup, using a Python script.
 
 <br>
 
-### ⏯️ Vídeo Utilizado
+### ⏯️ Video Used
 
-<img src = "https://github.com/RgoSL/PythonAtivs/blob/MP4CustomTk/Gatinho-Cucurela-Meme.gif" height = 400px width = 300px />
+<img src = "https://github.com/RgoSL/python-playground/blob/mp4-gui/Gatinho-Cucurela-Meme.gif" height = 400px width = 300px />
 
 <br>
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🧰 Technologies and Tools
 
-- Linguagem: **Python 3.x**
+- Language: **Python 3.x**
 - Editor: **VSCode**
-- Bibliotecas Utilizadas: 
+- Libraries used:
   - `Pillow`,
   - `CustomTkinter`,
   - `OpenCV (CV2)`
 
 ---
 
-## 🛠️ Como Executar
+## 🛠️ How to Run
 
-### 📦 Pré-requisitos:
-  
-- Python 3.x Instalado no PC
-- Extensões VSCode : Python, Python Debugger
+### 📦 Prerequisites:
+
+- Python 3.x installed on your PC
+- VSCode extensions: Python, Python Debugger
   
 ````bash
 pip install customtkinter
