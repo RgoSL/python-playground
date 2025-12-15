@@ -31,4 +31,12 @@ print(X) # X Passa a Valer 1, Porque o Resto da Divisão de 5/2 é 1
 
 # Listas : Mutáveis e Ordenadas, Podem Receber Dados de Tipos Diferentes
 TopFrutas = ["Banana", "Morango", "Maçã"]
+print(TopFrutas[0])
 
+# Tuplas : Para Dados Imutáveis, Seus Métodos São Index, Count e Len
+Coordenadas = (3, 4)
+print(Coordenadas[0]) 
+
+# Dicionários : Para Dados Compostos e Relacionados
+Jogo = {"Título": "Doom Eternal", "Gênero": "Ação", "Ano": 2016}
+print(Jogo["Título"])
