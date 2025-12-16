@@ -40,3 +40,22 @@ Produtos = {"Produto": {NomeProduto}, "Preço": {PrecoProduto}, "Em Estoque": {E
 # Exibição Dos Itens Cadastrados Com o Método Items 
 print("Itens Cadastrados no Nosso Programa :")
 print(Produtos.items())
+
+
+# Exercício 3 (Conjunto Exigido) Utilizando Formato Estático Dos Conjuntos Para Manter Simplicidade no Código
+
+# Criando os Conjuntos Númericos
+ConjA = {1, 2, 3, 4, 5, 6, 7}
+ConjB = {2, 3, 4, 5, 1, 8, 10}
+
+# Variáveis Que Recebem os Métodos de Manipulação
+NumComuns = ConjA & ConjB
+NumUnico = ConjA ^ ConjB
+
+# Exibição Dos Valores Dos Conjuntos
+print(f"Os Números da Lista A São : {ConjA}")
+print(f"Os Números da Lista B São : {ConjB}")
+
+# Exibição Das Informações Pedidas
+print(f"Os Números Iguais em Ambas as Listas São :{NumComuns}")
+print(f"Os Números Que Aparecem Pelo Menos Uma Vez São :{NumUnico}")
