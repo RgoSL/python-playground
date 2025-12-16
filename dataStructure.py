@@ -26,3 +26,17 @@ Utilize estruturas de dados adequadas para:
 - mostrar os números que aparecem em pelo menos uma delas.
 
 """
+
+# Exercício 2 (Mais Adequado é o Dicionário)
+
+# Entradas Para os Valores do Dicionário
+NomeProduto = input("Digite o Nome do Produto :")
+PrecoProduto = input("Digite o Preço Unitário :")
+Estoque = input("Digite a Quantidade Disponível :")
+
+# Dicionário Dos Produtos, Chaves Fixas e Valores Mutáveis
+Produtos = {"Produto": {NomeProduto}, "Preço": {PrecoProduto}, "Em Estoque": {Estoque}}
+
+# Exibição Dos Itens Cadastrados Com o Método Items 
+print("Itens Cadastrados no Nosso Programa :")
+print(Produtos.items())
